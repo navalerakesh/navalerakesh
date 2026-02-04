@@ -4,9 +4,6 @@
 
 [![Blog](https://img.shields.io/badge/📝_Blog-Technical_Writing-green?style=for-the-badge)](https://navalerakesh.github.io/blog/)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-navalerakesh.github.io-blue?style=for-the-badge)](https://navalerakesh.github.io)
-
-
 ---
 
 > 🚀 Building the future of developer tools with AI — shipping LLM-integrated platforms, CLI tools, VS Code extensions, and cloud-ready developer environments that make engineering teams more productive.
