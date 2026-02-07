@@ -1,4 +1,4 @@
-# Hi, I'm Rakesh 🚀
+# Hello! ⚡
 
 📍 Washington | AI Platform Builder | SWE @ Microsoft
 
