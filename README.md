@@ -22,10 +22,10 @@
 
 ## What I'm Working On
 
-- ** AI/LLM Integration** — Embedding AI into platform tools for intelligent developer experiences
-- ** Developer Productivity** — Building tools that reduce friction and accelerate workflows
-- ** CLI & VS Code Extensions** — Command-line tools and IDE extensions for seamless DX
-- ** Code-Ready Cloud Environments** — Azure VMs, containers, and instant dev setups
+- **AI/LLM Integration** — Embedding AI into platform tools for intelligent developer experiences
+- **Developer Productivity** — Building tools that reduce friction and accelerate workflows
+- **CLI & VS Code Extensions** — Command-line tools and IDE extensions for seamless DX
+- **Code-Ready Cloud Environments** — Azure VMs, containers, and instant dev setups
 
 ---
 
