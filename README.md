@@ -29,27 +29,16 @@
 
 ---
 
-## 💼 Featured Work
+## Featured Work
 
 ### 🧠 Knowledge & Documentation Hub
-Vector-based knowledge hub with LLM-driven retrieval, surfacing contextual docs and recommendations directly in developer tools.
-
-**Stack:** `Vector Search` `LLM Retrieval` `Azure AI` `OpenAI`
-
+Vector-based knowledge hub with LLM-driven retrieval, surfacing contextual docs and recommendations directly in developer tools. **Stack:** `Vector Search` `LLM Retrieval` `Azure AI` `OpenAI`
 ### 🔌 Model Context Protocol (MCP)
-Secure protocol for provisioning context to LLMs and agents with role-based access control.
-
-**Stack:** `Claude CLI` `MCP` `RBAC` `Agent Integration`
-
+Secure protocol for provisioning context to LLMs and agents with role-based access control. **Stack:** `Claude CLI` `MCP` `RBAC` `Agent Integration`
 ### ☁️ Code-Ready Cloud Environments
-Windows/Linux dev VMs and containers with lifecycle CLI for automated provisioning and team onboarding.
-
-**Stack:** `Azure VM` `Containers` `CLI Tooling` `Terraform`
-
+Windows/Linux dev VMs and containers with lifecycle CLI for automated provisioning and team onboarding. **Stack:** `Azure VM` `Containers` `CLI Tooling` `Terraform`
 ### 🤖 Copilot & LLM Connectors
-Integrations exposing semantically indexed code and knowledge to Copilot and LLM interfaces.
-
-**Stack:** `VS Code Extensions` `Semantic Indexing` `RAG` `Web APIs`
+Integrations exposing semantically indexed code and knowledge to Copilot and LLM interfaces. **Stack:** `VS Code Extensions` `Semantic Indexing` `RAG` `Web APIs`
 
 ---
 
@@ -110,7 +99,7 @@ Integrations exposing semantically indexed code and knowledge to Copilot and LLM
 ---
 
 <p align="center">
-  <b>10+ years</b> shipping scalable solutions • <b>Microsoft</b> Senior SWE • <b>AI Platform</b> Builder
+  <b>10+ years</b> shipping scalable solutions • <b>Microsoft</b> SWE • <b>AI Platform</b> Builder
 </p>
 
 <p align="center">
