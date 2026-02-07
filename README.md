@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh 🚀
 
-📍 Washington | 🤖 AI Platform Builder | 💼 Senior SWE @ Microsoft
+📍 Washington | AI Platform Builder | SWE @ Microsoft
 
 [![Blog](https://img.shields.io/badge/📝_Blog-Technical_Writing-green?style=for-the-badge)](https://navalerakesh.github.io/blog/)
 
@@ -20,12 +20,12 @@
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
-- **🤖 AI/LLM Integration** — Embedding AI into platform tools for intelligent developer experiences
-- **⚡ Developer Productivity** — Building tools that reduce friction and accelerate workflows
-- **🔧 CLI & VS Code Extensions** — Command-line tools and IDE extensions for seamless DX
-- **☁️ Code-Ready Cloud Environments** — Azure VMs, containers, and instant dev setups
+- ** AI/LLM Integration** — Embedding AI into platform tools for intelligent developer experiences
+- ** Developer Productivity** — Building tools that reduce friction and accelerate workflows
+- ** CLI & VS Code Extensions** — Command-line tools and IDE extensions for seamless DX
+- ** Code-Ready Cloud Environments** — Azure VMs, containers, and instant dev setups
 
 ---
 
