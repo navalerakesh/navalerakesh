@@ -85,7 +85,6 @@ Integrations exposing semantically indexed code and knowledge to Copilot and LLM
 
 ## 📫 Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/navalerakesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshnavale)
 [![Website](https://img.shields.io/badge/Website-navalerakesh.github.io-blue?style=for-the-badge)](https://navalerakesh.github.io)
 [![Email](https://img.shields.io/badge/Email-navale.rakesh@yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navale.rakesh@yahoo.com)
