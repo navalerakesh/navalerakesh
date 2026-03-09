@@ -29,45 +29,12 @@
 
 ---
 
-## Featured Work
-
-### 🧠 Knowledge & Documentation Hub
-Vector-based knowledge hub with LLM-driven retrieval, surfacing contextual docs and recommendations directly in developer tools. **Stack:** `Vector Search` `LLM Retrieval` `Azure AI` `OpenAI`
-### 🔌 Model Context Protocol (MCP)
-Secure protocol for provisioning context to LLMs and agents with role-based access control. **Stack:** `Claude CLI` `MCP` `RBAC` `Agent Integration`
-### ☁️ Code-Ready Cloud Environments
-Windows/Linux dev VMs and containers with lifecycle CLI for automated provisioning and team onboarding. **Stack:** `Azure VM` `Containers` `CLI Tooling` `Terraform`
-### 🤖 Copilot & LLM Connectors
-Integrations exposing semantically indexed code and knowledge to Copilot and LLM interfaces. **Stack:** `VS Code Extensions` `Semantic Indexing` `RAG` `Web APIs`
-
----
-
-## 🛠️ Core Expertise
-
-```text
-🤖  AI/LLM Integration       │  Claude CLI, OpenAI, Azure AI, MCP, RAG
-⚡  Developer Productivity   │  CLI Tools, VS Code Extensions, Automation
-☁️  Cloud Environments       │  Azure VM, Containers, Dev Boxes, Codespaces
-🏗️  Platform Engineering     │  Microservices, APIs, Event-Driven Architecture
-🔧  Scripting & Tooling      │  PowerShell, Bash, Node.js, TypeScript
-🌐  Web Development          │  TypeScript, JavaScript, React, APIs
-```
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/navalerakesh" alt="GitHub Contribution Graph" />
-</p>
-
----
 
 ## 🧰 Tech Stack
 
 **Languages:** C# • TypeScript • JavaScript • PowerShell • Bash • Python  
 **Runtimes:** Node.js • .NET • Python  
-**Cloud:** Azure VM • Containers • Kubernetes • Docker • Terraform  
+**Cloud:** Azure VM • Containers • Kubernetes • Docker  
 **AI/ML:** Claude CLI • OpenAI • Azure AI • LangChain • Vector DBs  
 **Tools:** VS Code • GitHub Actions • CLI Design • macOS • Linux • Windows  
 **Web:** React • APIs • REST • GraphQL
@@ -81,6 +48,13 @@ Integrations exposing semantically indexed code and knowledge to Copilot and LLM
 - 🔌 **VS Code Extensions** — IDE integrations for AI-powered development
 - ☁️ **Instant Dev Environments** — One-click cloud setups for any project
 
+---
+
+## Open Source
+
+- [EventMonitor.Windows](https://github.com/navalerakesh/EventMonitor.Windows) 
+his is a PowerShell 7.4+ Windows security monitoring module built for real-time, event-driven detection. In todays **AI-First** world this helps **secure your machine and developer workflows**. As more teams use agentic bots and automation, visibility into system activity is no longer optional. It gives you reliable monitoring to understand what is happening and respond with confidence.
+ 
 ---
 
 ## 📫 Connect
