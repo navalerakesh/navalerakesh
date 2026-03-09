@@ -31,10 +31,10 @@
 
 ## 📖 What I'm Exploring
 
-- 🦾 **Agentic Engineering** — Building autonomous AI workflows with Claude CLI
-- 🧩 **MCP Ecosystem** — Extending the Model Context Protocol for richer AI context
-- 🔌 **VS Code Extensions** — IDE integrations for AI-powered development
-- ☁️ **Instant Dev Environments** — One-click cloud setups for any project
+- **Agentic Engineering** — Building autonomous AI workflows with Claude CLI
+- **MCP Ecosystem** — Extending the Model Context Protocol for richer AI context
+- **VS Code Extensions** — IDE integrations for AI-powered development
+- **Instant Dev Environments** — One-click cloud setups for any project
 
 ---
 
