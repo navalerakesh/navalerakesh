@@ -29,18 +29,6 @@
 
 ---
 
-
-## 🧰 Tech Stack
-
-**Languages:** C# • TypeScript • JavaScript • PowerShell • Bash • Python  
-**Runtimes:** Node.js • .NET • Python  
-**Cloud:** Azure VM • Containers • Kubernetes • Docker  
-**AI/ML:** Claude CLI • OpenAI • Azure AI • LangChain • Vector DBs  
-**Tools:** VS Code • GitHub Actions • CLI Design • macOS • Linux • Windows  
-**Web:** React • APIs • REST • GraphQL
-
----
-
 ## 📖 What I'm Exploring
 
 - 🦾 **Agentic Engineering** — Building autonomous AI workflows with Claude CLI
@@ -65,16 +53,10 @@ his is a PowerShell 7.4+ Windows security monitoring module built for real-time,
 
 ---
 
-## 💭 Philosophy
-
-> "Ship beats perfect" — I build tools to solve real problems, then share them with the world. Currently exploring how AI transforms everything about software development.
-
----
-
 <p align="center">
-  <b>10+ years</b> shipping scalable solutions • <b>Microsoft</b> SWE • <b>AI Platform</b> Builder
+  <b>10+ years</b> shipping scalable solutions • <b>Microsoft</b> SWE • <b>AI & Platform</b>
 </p>
 
 <p align="center">
-  <i>⭐ Building the future, one commit at a time</i>
+  <i>⭐ Building for the future, one commit at a time</i>
 </p>
