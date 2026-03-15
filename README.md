@@ -1,48 +1,64 @@
-# Hi
+# Hey there,
 
-📍 Washington | AI Platform Builder | SWE @ Microsoft
+Experienced Software Engineer at Microsoft · Washington
 
-[![Blog](https://img.shields.io/badge/📝_Blog-Technical_Writing-green?style=for-the-badge)](https://navalerakesh.github.io/blog/)
+10+ years shipping developer platforms and distributed systems. Currently focused on LLM-powered developer experiences — agentic orchestration, RAG, MCP, and cloud dev environments at scale.
 
-> 🚀 Building the future of developer tools with AI — shipping LLM-integrated platforms, CLI tools, VS Code extensions, and cloud-ready developer environments that make engineering teams more productive.
-
----
-
-## What I'm Working On
-
-- **AI/LLM Integration** — Embedding AI into platform tools for intelligent developer experiences
-- **Developer Productivity** — Building tools that reduce friction and accelerate workflows
-- **CLI & VS Code Extensions** — Command-line tools and IDE extensions for seamless DX
-- **Code-Ready Cloud Environments** — Azure VMs, containers, and instant dev setups
+[![Blog](https://img.shields.io/badge/Blog-navalerakesh.github.io-333?style=flat&logo=github)](https://navalerakesh.github.io/blog/)
 
 ---
 
-## 📖 What I'm Exploring
+## What I Work On
 
-- **Agentic Engineering** — Building autonomous AI workflows with Claude CLI
-- **MCP Ecosystem** — Extending the Model Context Protocol for richer AI context
-- **VS Code Extensions** — IDE integrations for AI-powered development
-- **Instant Dev Environments** — One-click cloud setups for any project
+- **Agentic AI & Multi-Agent Orchestration** — Autonomous workflows, CLI-driven agents, RAG, semantic search, Copilot integrations
+- **MCP Validation & Compliance** — Protocol compliance, security posture, trust-level assessment for MCP servers
+- **Cloud Developer Environments** — Linux/Windows code-ready VMs, automated provisioning, CLI lifecycle management
+- **Developer Tooling** — VS Code extensions, CLI tools, AI-powered platform applications
 
 ---
 
 ## Open Source
 
-- [EventMonitor.Windows](https://github.com/navalerakesh/EventMonitor.Windows) 
-his is a PowerShell 7.4+ Windows security monitoring module built for real-time, event-driven detection. In todays **AI-First** world this helps **secure your machine and developer workflows**. As more teams use agentic bots and automation, visibility into system activity is no longer optional. It gives you reliable monitoring to understand what is happening and respond with confidence.
- 
+<table>
+<tr>
+<td width="120" align="center">
+<a href="https://github.com/navalerakesh/mcp-validation-security">
+<img src="https://raw.githubusercontent.com/navalerakesh/mcp-validation-security/main/assets/mcpval-icon.png" width="64" />
+</a>
+</td>
+<td>
+<strong><a href="https://github.com/navalerakesh/mcp-validation-security">MCP Validator</a></strong> — CLI tool that validates MCP servers for protocol compliance, security posture, and AI safety — assigning a trust level from L1 to L5.<br/>
+<sub><a href="https://www.nuget.org/packages/McpVal">NuGet</a> · <a href="https://www.npmjs.com/package/mcpval-localmcp">npm</a> · <a href="https://github.com/navalerakesh/mcp-validation-security">Source</a></sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<a href="https://github.com/navalerakesh/EventMonitor.Windows">
+<img src="https://raw.githubusercontent.com/navalerakesh/EventMonitor.Windows/refs/heads/main/assets/icon.svg" width="64" />
+</a>
+</td>
+<td>
+<strong><a href="https://github.com/navalerakesh/EventMonitor.Windows">EventMonitor.Windows</a></strong> — Real-time, event-driven Windows security monitoring module for PowerShell 7.4+. Built for visibility into system activity as agentic bots and automation become the norm.<br/>
+<sub><a href="https://www.powershellgallery.com/packages/EventMonitor.Windows">PSGallery</a> · <a href="https://github.com/navalerakesh/EventMonitor.Windows">Source</a></sub>
+</td>
+</tr>
+</table>
+
 ---
 
-## 📫 Connect
+**M.S. Computer Science** — University of Southern California
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshnavale)
-[![Website](https://img.shields.io/badge/Website-navalerakesh.github.io-blue?style=for-the-badge)](https://navalerakesh.github.io)
-[![Email](https://img.shields.io/badge/Email-navale.rakesh@yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navale.rakesh@yahoo.com)
+**B.E. Computer Science** — University of Pune
 
 ---
 
-<p align="center">
-  <b>10+ years</b> shipping scalable solutions • <b>Microsoft</b> SWE • <b>AI & Platform</b>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshnavale)
+[![Website](https://img.shields.io/badge/Website-navalerakesh.github.io-333?style=flat-square&logo=github)](https://navalerakesh.github.io)
+
+---
+
+<p align="right">
+  <b>Rakesh Navale</b>
 </p>
 
 <p align="center">
